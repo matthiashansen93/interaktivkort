@@ -11,6 +11,9 @@
 	  { navn: "Container (Metal og plastik) - Affaldsgård 3 ", top: "17%", left: "91%" },
 	  { navn: "Container (Restaffald) - Affaldsgård 4 ", top: "17%", left: "80%" },
 	  { navn: "Restaffald - Bygning D", top: "34%", left: "151%" },
+	 { navn: "Restaffald - Bygning D", top: "50%", left: "151%" },
+	     { navn: "Restaffald - Bygning D", top: "50%", left: "138%" },
+	     { navn: "Restaffald - Bygning D", top: "50%", left: "142%" },
 	  
     ];
 
