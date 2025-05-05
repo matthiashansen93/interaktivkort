@@ -1,39 +1,38 @@
 body {
-		width: 100%;
-		height: 100%;
-		display: block;
-		background-color: #F3E4D8;
+	width: 100%;
+	height: 100%;
+	display: block;
+	background-color: #F3E4D8;
 		
-	}
-    #container {
-      position: relative;
-      width: 100%;
-     max-width: 800px;
-      margin: center;
-	  zoom: 150%;
-    }
+}
+#container {
+      	position: relative;
+      	width: 100%;
+     	max-width: 800px;
+      	margin: center;
+	zoom: 150%;
+}
 
-    #kort {
-      width: 200%;
-	  position: relative;
-      display: block;
-	  border: 2px outset;
-	  border-color: #F3E4D8;
-    }
+#kort {
+	width: 200%;
+	position: relative;
+      	display: block;
+	border: 2px outset;
+	border-color: #F3E4D8;
+}
 
-    .markør {
-      position: absolute;
-      width: 20px;
-      height: 20px;
-      color: black;
-      font-size: 12px;
-      text-align: center;
-      line-height: 20px;
-      border-radius: 50%;
-      cursor: pointer;
-    }
-
-    .tooltip {
+.markør {
+      	position: absolute;
+      	width: 20px;
+      	height: 20px;
+      	color: black;
+      	font-size: 12px;
+      	text-align: center;
+      	line-height: 20px;
+      	border-radius: 50%;
+      	cursor: pointer;
+}
+.tooltip {
       position: absolute;
       background-color: #f4f4f4;
       border: 1px solid #ccc;
@@ -43,12 +42,11 @@ body {
       display: none;
       pointer-events: none;
       white-space: nowrap;
-    }
-	#logo {
-		height: 15%;
-		display: block;
-		max-width: 500px;
-		border: 2px outset;
-		border-color: #F3E4D8;
-		
-		}
+}
+#logo {
+	height: 15%;
+	display: block;
+	max-width: 500px;
+	border: 2px outset;
+	border-color: #F3E4D8;	
+}
