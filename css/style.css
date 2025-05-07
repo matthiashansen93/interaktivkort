@@ -6,8 +6,7 @@ body {
 		
 }
 h1{
-	border: 2px outset;
-
+	border: 8px outset lightgrey;
 	font-weight: bolder;
 	font-size: 50px;
 }
